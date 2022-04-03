@@ -1,0 +1,35 @@
+label {
+  color: white;
+  background: darkgrey;
+  border-radius: 5px 5px;
+  padding: 5px 15px;
+}
+
+input {
+  height: 30px;
+}
+
+.main-container {
+  display: flex;
+  background-color: blue;
+}
+
+.data_form {
+  display: flex;
+  flex-direction: column;
+  background-color: red;
+  margin: 10px 10px;
+  padding: 10px 10px;
+
+}
+
+.data {
+    margin-top: 5px;
+}
+
+.submit{
+  color: red;
+  height: 40px;
+  width: 300px;
+  margin: 0, 20px;
+}
